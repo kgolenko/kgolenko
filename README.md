@@ -1,6 +1,6 @@
 ![Header](https://github.com/KirillGolenko/KirillGolenko/blob/master/assets/Kirill%20Golenko.png)
 ___
-## I`m a Junior Backend Developer
+## I`m a Backend Developer
 ___
 ### Languages and Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
