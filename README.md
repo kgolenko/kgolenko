@@ -1,4 +1,3 @@
-![Header](https://github.com/KirillGolenko/KirillGolenko/blob/master/assets/Kirill%20Golenko.png)
 ___
 ## I`m a Backend Developer
 ___
